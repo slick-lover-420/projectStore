@@ -1,0 +1,21 @@
+.logo{
+    color: blueviolet;
+    font-size: 32px;
+    padding-top: 10px;
+    padding-left: 16px;
+    flex: 1;
+}
+ 
+.navbar{
+    display: flex;
+    padding: 12px;
+
+}
+
+.elements{
+    font-size: 30px;
+    padding-left: 20px;}
+
+.top{
+    display: flex;
+}
