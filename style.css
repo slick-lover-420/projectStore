@@ -27,3 +27,8 @@
 .top{
     display: flex;
 }
+
+a{
+    text-decoration: none;
+
+}
