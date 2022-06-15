@@ -88,6 +88,7 @@ a{
 
 .main{
 
+    
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -114,3 +115,33 @@ a{
 
 }
 
+.btns {
+
+    display: flex;
+
+}
+
+.btn{
+
+
+    margin-top: 40px ;
+    font-size: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+.btn1{
+
+    background-color: #FF7F00;
+    color: white;
+}
+
+.btn2{
+
+    color: #FF7F00;
+
+}
